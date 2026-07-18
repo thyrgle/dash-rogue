@@ -6,7 +6,7 @@
 
 ## About
 
-During this stream I will be mostly working on this game ("dash rogue") an OCaml + Raylib rogulelike where the player will be able "dash" distance across the screen to knockback and damage enemies. Want to join me and build this game *live*?
+An OCaml + Raylib roguelike where the player will be able "dash" distance across the screen to knockback and damage enemies. Most of it gets built live [on Twitch](https://www.twitch.tv/thyrgle). Want to join me and build this game *live*?
 
 ## Status
 
