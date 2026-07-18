@@ -30,7 +30,7 @@ For larger changes (new systems, big refactors), it's worth opening an issue fir
 
 ## Code style
 
-- Follow the formatting conventions already used in the codebase (run `ocamlformat` if the project has a config for it)
+- Follow the formatting conventions already used in the codebase (run `ocamlformat`)
 - Prefer clear, small functions over clever one-liners
 - Comment non-obvious logic, especially around game state and mechanics
 
