@@ -11,12 +11,6 @@ type hero =
   mutable pos : Tvar.tvar
 }
 
-(* In loop: update with a tween manager.
-   On call back: calculate_next_pos prev_pos -> gives back next_pos.
-   Creates a tween from prev_pos -> next_pos.
-   Where does input come into all this?
-*)
-
 let player = 
 {
   pos = Tvar.tv (V2.v 50.0 50.0) tm
