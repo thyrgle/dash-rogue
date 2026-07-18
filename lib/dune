@@ -1,2 +1,3 @@
 (library
- (name dash_rogue))
+ (name dash_rogue)
+ (libraries ease-caml gg))
