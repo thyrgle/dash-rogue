@@ -1,0 +1,4 @@
+(executable
+ (public_name dash-rogue)
+ (name main)
+ (libraries dash_rogue raylib forcamla gg ease-caml))

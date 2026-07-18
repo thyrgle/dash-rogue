@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/dash-rogue/META"
+  "_build/install/default/lib/dash-rogue/dune-package"
+  "_build/install/default/lib/dash-rogue/opam"
+]
+bin: [
+  "_build/install/default/bin/dash-rogue"
+]
