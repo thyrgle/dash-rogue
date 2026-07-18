@@ -1,6 +1,6 @@
-dash rogue
-==========
+# dash rogue
 
+Dash in and out of danger. Watch the real time development of this [on Twitch](https://www.twitch.tv/thyrgle) every Saturday from 2 - 3:30pm
 
 ![License Badge](https://img.shields.io/github/license/thyrgle/dash-rogue)
 
