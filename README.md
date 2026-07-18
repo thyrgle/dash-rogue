@@ -1,12 +1,12 @@
 # dash rogue
 
-Dash in and out of danger. Watch the real time development of this [on Twitch](https://www.twitch.tv/thyrgle) every Saturday from 2 - 3:30pm
+*Dash in and out of danger. Watch the real time development of this [on Twitch](https://www.twitch.tv/thyrgle) every Saturday from 2 - 3:30pm.*
 
 ![License Badge](https://img.shields.io/github/license/thyrgle/dash-rogue)
 
 ## About
 
-I will be streaming OCaml game development on my [Twitch channel](https://www.twitch.tv/thyrgle) every Saturday from 2 - 3:30pm PDT. During this stream I will be mostly working on this game ("dash rogue") a rogulelike where the player will be able "dash" distance across the screen to knockback and damage enemies. Want to join me and build this game *live*?
+During this stream I will be mostly working on this game ("dash rogue") an OCaml + Raylib rogulelike where the player will be able "dash" distance across the screen to knockback and damage enemies. Want to join me and build this game *live*?
 
 ## Status
 
