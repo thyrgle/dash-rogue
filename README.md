@@ -1,6 +1,9 @@
 dash rogue
 ==========
 
+
+![License Badge](https://img.shields.io/github/license/thyrgle/dash-rogue)
+
 ## About
 
 I will be streaming OCaml game development on my [Twitch channel](https://www.twitch.tv/thyrgle) every Saturday from 2 - 3:30pm PDT. During this stream I will be mostly working on this game ("dash rogue") a rogulelike where the player will be able "dash" distance across the screen to knockback and damage enemies. Want to join me and build this game *live*?
